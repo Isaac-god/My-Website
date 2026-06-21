@@ -11,7 +11,12 @@
   border-radius: 3%;
 }
 
-.buttons{
-  height: 50px;
-  width: 1065px;
+.button1{
+  border-radius: 5px;
+  margin-left: 800px;
+  color: grey;
+}
+
+button:hover{
+ cursor: pointer;
 }
